@@ -1,5 +1,6 @@
 # Basic-Static-Timing-Analysis
 
+*Basic Static Timing Analysis concepts, timing library concepts, STA flow, SDC constraints creation and description etc are shown in this course*.
 
 # *Course Objective*
 
@@ -55,4 +56,4 @@ Course Agenda
 
 >>Timing Library Example
 
->>Latch-Based Designs*
+>>Latch-Based Designs
