@@ -51,6 +51,8 @@ Course Agenda
 
 13- Analyzing the Timing in a Design
 
-*14- Appendices 
-Timing Library Example
-Latch-Based Designs*
+*14- Appendices*
+
+>>Timing Library Example
+
+>>Latch-Based Designs*
