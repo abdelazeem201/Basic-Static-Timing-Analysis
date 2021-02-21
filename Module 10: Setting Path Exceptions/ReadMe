@@ -1,0 +1,13 @@
+Module Objective
+
+In this module, We
+
+1- Set multicycle paths
+
+2- Identify and set false paths
+
+3- Disable timing arcs
+
+4- Apply case analysis
+
+5- Constrain paths by setting delay limits
