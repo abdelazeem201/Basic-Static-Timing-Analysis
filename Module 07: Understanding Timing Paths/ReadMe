@@ -1,0 +1,9 @@
+Module Objective
+
+In this Module, We
+
+1- Identify the types of timing paths
+
+2- Calculate slack for every path type
+
+3- Determine the worst timing path in a small circuit
