@@ -1,0 +1,11 @@
+Module Objective
+
+In this module, We
+
+1- Constrain a clock for slew, latency, and uncertainty
+
+2- Analyze a timig report for clock latency
+
+3- Set the generated, gated, and virtual clocks in a design
+
+4- Set the input and output constraints relative to the clock
